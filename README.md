@@ -1,1 +1,1 @@
-crft-cellr-watcher
+# Template for typescript node project things
